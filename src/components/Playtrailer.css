@@ -1,0 +1,13 @@
+ .playtrailer img{
+  height: 1rem;
+ }
+ .playtrailer{
+    display: flex;align-items: center;justify-content: center;
+    gap: 0.3rem;
+    padding: 0.5rem;
+    background-color: yellow;
+    border: none;
+    border-radius:  31px;
+    height: 2rem;
+    width: 8rem;
+ }
